@@ -54,6 +54,15 @@ section {
   margin: 10px;
   border-radius: 10px;
 }
+h1, h2 {
+  color: #333;
+}
+
+section {
+  background: white;
+  margin: 20px;
+  border-radius: 10px;
+}
 
 .card:hover {
   transform: scale(1.05);
